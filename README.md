@@ -1,4 +1,4 @@
-# Hi, I'm Manish Kumar 👋
+# Hi, I'm Manish 👋
 
 **Cloud Security & AWS Enthusiast | BCA Student | Offensive & Defensive Security Learner**
 
